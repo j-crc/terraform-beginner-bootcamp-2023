@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-### Semantic versioning
+### Semantic versioning :mage:
 This project is going to utilize semantic versioning for its branching. See more at the  [Semantic Versioning 2.0.0](https://semver.org/) website.
 
 The general format will be MAJOR.MINOR.PATCH. Eg.: `1.0.1`.
